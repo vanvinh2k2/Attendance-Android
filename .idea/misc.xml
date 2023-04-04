@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/drawable/background_edit.xml" value="0.181" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/drawable/background_sign.xml" value="0.181" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/drawable/ic_back.xml" value="0.2325" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/font/aclonica.xml" value="0.284375" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/activity_detail_sheet.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/activity_sheet.xml" value="0.264" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/activity_sheet_detail.xml" value="0.264" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/activity_sign_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/activity_student.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/dialog_add.xml" value="0.253125" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/dialog_add_student.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/item_class.xml" value="0.253125" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/item_month.xml" value="0.253125" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/item_student.xml" value="0.264" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/layout/toolbar.xml" value="0.24895833333333334" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/menu/menu_logout.xml" value="0.2520833333333333" />
+        <entry key="..\:/LapTrinh/Demo project/MyAttendanceApp/app/src/main/res/menu/menu_student.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
